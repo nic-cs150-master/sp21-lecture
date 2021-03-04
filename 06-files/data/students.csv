@@ -1,4 +1,5 @@
-123234,John Michael,23,M,100,83,76
+ID,Student Name,Age,Gender,Test 1,Test 2,Test 3
+123234,John Michael,23,M,100,83,76;
 458978,Cindy Smith,17,F,100,100,100
 853583,Maria Potlovic,28,F,75,65,90
 157879,Aniceta Rios,18,F,85,76,89
